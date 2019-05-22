@@ -1,0 +1,9 @@
+requetURL: https://staging.cloud-elements.com/elements/api-v2
+
+filesURI: /files
+listFilesURI: /folders/contents
+
+#authentication
+userSecret: B6aaLuqRs+1UYsrqJucOPLMI7m/+ndNUDxv4ikQr3OA=
+organizationSecret: 45981058864f4027e8cdf71caf2e1f6a
+elementSecret: hzZ87s0qMilCdNwEylW//mkUzMeJAwZhwkiEr/IaYpQ=
